@@ -41,6 +41,12 @@ python src/ingest.py
 ### 6. Run the chatbot
 ```bash
 streamlit run app.py
+
+## Demo
+
+![DocBot Demo](animation.gif)
+
+**GitHub Repository:** https://github.com/Arpit77gola/rag-chatbot
 ```
 
 ## Sample Queries
