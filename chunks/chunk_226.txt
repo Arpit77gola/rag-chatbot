@@ -1,0 +1,3 @@
+for example, a 90 day period, NAM shall (1) administer the arbitration demands in batches of 
+100 Demands per batch (or, if between 25 and 99 individual Demands are filed, a single 
+batch of all those Demands, and, to the extent there are less than 100 Demands remaining

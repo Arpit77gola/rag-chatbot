@@ -1,0 +1,2 @@
+not want your item to be sold to buyers internationally, you can exclude countries or regions you 
+don't want to ship to by adjusting your shipping settings as provided in the International selling

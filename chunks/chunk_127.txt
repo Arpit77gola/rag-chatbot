@@ -1,0 +1,3 @@
+Returns and cancellations for buyers 
+Buyers generally do not have the right to cancel an order. Buyers can request to cancel an order on 
+eBay within the time period and as provided in our Order cancellation policy, and the seller will have

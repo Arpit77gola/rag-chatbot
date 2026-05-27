@@ -1,0 +1,3 @@
+Payment Entity's third-party payment services providers; 
+• eBay, the eBay Payment Entity or its affiliates may save payment information, such as credit 
+card or debit card numbers, and card expiration dates, entered by you on our Services when
