@@ -1,3 +1,0 @@
-Entities make available, and the eBay Payment Entities will manage settlement of the 
-payment to sellers. The eBay Payment Entities will collect the transaction amount on behalf 
-of the seller by charging your selected payment method. Accordingly, payments received
